@@ -1,0 +1,14 @@
+{
+    "name": "student/codeigniter-pos-foundations",
+    "description": "IT0049 CodeIgniter POS Foundations activity",
+    "type": "project",
+    "require": {
+        "codeigniter4/framework": "^4.4"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.23"
+    },
+    "scripts": {
+        "serve": "php spark serve"
+    }
+}
